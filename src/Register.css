@@ -1,0 +1,35 @@
+.form-container {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    height: auto;
+}
+
+.form-container input[type="text"], input[type="email"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+.go-back {
+    background-color: #3494e6;
+}
+.chkRequire{
+    display: flex;
+}
+
+#chk{
+    width: 15px;
+    margin-right: 2px;
+}
+
+.agreeTO{
+    font-size: 12px;
+    margin-left: 5px;
+}
