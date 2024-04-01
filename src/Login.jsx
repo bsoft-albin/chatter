@@ -28,6 +28,7 @@ const Login = () => {
                     <Link to="/sign-in">signin</Link>                 
                 </div>
             </div>
+            <h2>Git traker added</h2>
         </div>
 
   )
